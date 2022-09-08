@@ -1,4 +1,4 @@
-# Web-Development Base Projects are Available Here for you Guys
+# Web-Development Based Projects are Available Here for you Guys
 # About Web Designing and Web Development
 # HTML, CSS, JavaScript(JS)
 # Figma, Canva, Photoshop, Adobe XD
